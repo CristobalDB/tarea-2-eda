@@ -1,0 +1,3 @@
+/home/diazb/eda_cpp/poscodes_project_skeleton/poscodes_project/build/CMakeFiles/test.dir
+/home/diazb/eda_cpp/poscodes_project_skeleton/poscodes_project/build/CMakeFiles/edit_cache.dir
+/home/diazb/eda_cpp/poscodes_project_skeleton/poscodes_project/build/CMakeFiles/rebuild_cache.dir
